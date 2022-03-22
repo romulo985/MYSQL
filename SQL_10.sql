@@ -2,6 +2,9 @@ USE sucos;
 
 
 
+
+
+
 DROP TABLE tbcliente;
 
 DROP TABLE tbproduto;
