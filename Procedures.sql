@@ -16,7 +16,7 @@ INSERT INTO tabela_de_produtos
      vEmbalagem,
      vPreco);
 END$$
-DELIMITER ;
+DELIMITER   ;
 
 Call inclui_novo_produto_parametro('4000001', 'Sabor do Pantanal 1 Litro - Melancia',
 'Melancia', '1 Litro', 'PET', 4.76);
